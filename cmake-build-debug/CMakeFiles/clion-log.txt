@@ -1,0 +1,35 @@
+/home/sarthak/clion-2017.3.4/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/home/sarthak/Documents/Algorithms/Seam Carving/seamcarving"
+-- The C compiler identification is GNU 5.4.0
+-- The CXX compiler identification is GNU 5.4.0
+-- Check for working C compiler: /usr/bin/cc
+-- Check for working C compiler: /usr/bin/cc -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Check for working CXX compiler: /usr/bin/c++
+-- Check for working CXX compiler: /usr/bin/c++ -- works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+CMake Warning at CMakeLists.txt:6 (find_package):
+  By not providing "Findopencv.cmake" in CMAKE_MODULE_PATH this project has
+  asked CMake to find a package configuration file provided by "opencv", but
+  CMake did not find one.
+
+  Could not find a package configuration file provided by "opencv" with any
+  of the following names:
+
+    opencvConfig.cmake
+    opencv-config.cmake
+
+  Add the installation prefix of "opencv" to CMAKE_PREFIX_PATH or set
+  "opencv_DIR" to a directory containing one of the above files.  If "opencv"
+  provides a separate development package or SDK, be sure it has been
+  installed.
+
+
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/sarthak/Documents/Algorithms/Seam Carving/seamcarving/cmake-build-debug

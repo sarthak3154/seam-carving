@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sarthak/Documents/Algorithms/Seam Carving/seamcarving/src/main.cpp
+opencv2/opencv.hpp
+-
+sc.h
+/home/sarthak/Documents/Algorithms/Seam Carving/seamcarving/src/sc.h
+
+/home/sarthak/Documents/Algorithms/Seam Carving/seamcarving/src/sc.cpp
+sc.h
+/home/sarthak/Documents/Algorithms/Seam Carving/seamcarving/src/sc.h
+
+/home/sarthak/Documents/Algorithms/Seam Carving/seamcarving/src/sc.h
+opencv2/opencv.hpp
+-
+

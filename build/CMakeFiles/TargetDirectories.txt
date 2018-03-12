@@ -1,0 +1,3 @@
+/home/sarthak/Documents/Algorithms/Seam Carving/code/build/CMakeFiles/rebuild_cache.dir
+/home/sarthak/Documents/Algorithms/Seam Carving/code/build/CMakeFiles/edit_cache.dir
+/home/sarthak/Documents/Algorithms/Seam Carving/code/build/CMakeFiles/sc.dir
