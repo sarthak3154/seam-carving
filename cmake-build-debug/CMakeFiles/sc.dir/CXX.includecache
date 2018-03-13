@@ -6,17 +6,17 @@
 
 #IncludeRegexTransform: 
 
-/home/sarthak/Documents/Algorithms/Seam Carving/seamcarving/src/main.cpp
+/home/sarthak/Documents/Algorithms/Seam Carving/seam-carving/src/main.cpp
 opencv2/opencv.hpp
 -
 sc.h
-/home/sarthak/Documents/Algorithms/Seam Carving/seamcarving/src/sc.h
+/home/sarthak/Documents/Algorithms/Seam Carving/seam-carving/src/sc.h
 
-/home/sarthak/Documents/Algorithms/Seam Carving/seamcarving/src/sc.cpp
+/home/sarthak/Documents/Algorithms/Seam Carving/seam-carving/src/sc.cpp
 sc.h
-/home/sarthak/Documents/Algorithms/Seam Carving/seamcarving/src/sc.h
+/home/sarthak/Documents/Algorithms/Seam Carving/seam-carving/src/sc.h
 
-/home/sarthak/Documents/Algorithms/Seam Carving/seamcarving/src/sc.h
+/home/sarthak/Documents/Algorithms/Seam Carving/seam-carving/src/sc.h
 opencv2/opencv.hpp
 -
 

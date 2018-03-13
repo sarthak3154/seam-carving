@@ -10,7 +10,7 @@ The output was:
 
 Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.out"
 
-The C compiler identification is GNU, found in "/home/sarthak/Documents/Algorithms/Seam Carving/seamcarving/cmake-build-debug/CMakeFiles/3.9.6/CompilerIdC/a.out"
+The C compiler identification is GNU, found in "/home/sarthak/Documents/Algorithms/Seam Carving/seam-carving/cmake-build-debug/CMakeFiles/3.9.6/CompilerIdC/a.out"
 
 Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
 Compiler: /usr/bin/c++ 
@@ -23,33 +23,33 @@ The output was:
 
 Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.out"
 
-The CXX compiler identification is GNU, found in "/home/sarthak/Documents/Algorithms/Seam Carving/seamcarving/cmake-build-debug/CMakeFiles/3.9.6/CompilerIdCXX/a.out"
+The CXX compiler identification is GNU, found in "/home/sarthak/Documents/Algorithms/Seam Carving/seam-carving/cmake-build-debug/CMakeFiles/3.9.6/CompilerIdCXX/a.out"
 
 Determining if the C compiler works passed with the following output:
-Change Dir: /home/sarthak/Documents/Algorithms/Seam Carving/seamcarving/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/sarthak/Documents/Algorithms/Seam Carving/seam-carving/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_cadf2/fast"
-/usr/bin/make -f CMakeFiles/cmTC_cadf2.dir/build.make CMakeFiles/cmTC_cadf2.dir/build
-make[1]: Entering directory '/home/sarthak/Documents/Algorithms/Seam Carving/seamcarving/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_cadf2.dir/testCCompiler.c.o
-/usr/bin/cc    -o CMakeFiles/cmTC_cadf2.dir/testCCompiler.c.o   -c "/home/sarthak/Documents/Algorithms/Seam Carving/seamcarving/cmake-build-debug/CMakeFiles/CMakeTmp/testCCompiler.c"
-Linking C executable cmTC_cadf2
-/home/sarthak/clion-2017.3.4/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_cadf2.dir/link.txt --verbose=1
-/usr/bin/cc      -rdynamic CMakeFiles/cmTC_cadf2.dir/testCCompiler.c.o  -o cmTC_cadf2 
-make[1]: Leaving directory '/home/sarthak/Documents/Algorithms/Seam Carving/seamcarving/cmake-build-debug/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_cb749/fast"
+/usr/bin/make -f CMakeFiles/cmTC_cb749.dir/build.make CMakeFiles/cmTC_cb749.dir/build
+make[1]: Entering directory '/home/sarthak/Documents/Algorithms/Seam Carving/seam-carving/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_cb749.dir/testCCompiler.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_cb749.dir/testCCompiler.c.o   -c "/home/sarthak/Documents/Algorithms/Seam Carving/seam-carving/cmake-build-debug/CMakeFiles/CMakeTmp/testCCompiler.c"
+Linking C executable cmTC_cb749
+/home/sarthak/clion-2017.3.4/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_cb749.dir/link.txt --verbose=1
+/usr/bin/cc      -rdynamic CMakeFiles/cmTC_cb749.dir/testCCompiler.c.o  -o cmTC_cb749 
+make[1]: Leaving directory '/home/sarthak/Documents/Algorithms/Seam Carving/seam-carving/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
 Detecting C compiler ABI info compiled with the following output:
-Change Dir: /home/sarthak/Documents/Algorithms/Seam Carving/seamcarving/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/sarthak/Documents/Algorithms/Seam Carving/seam-carving/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_87d8e/fast"
-/usr/bin/make -f CMakeFiles/cmTC_87d8e.dir/build.make CMakeFiles/cmTC_87d8e.dir/build
-make[1]: Entering directory '/home/sarthak/Documents/Algorithms/Seam Carving/seamcarving/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_87d8e.dir/CMakeCCompilerABI.c.o
-/usr/bin/cc    -o CMakeFiles/cmTC_87d8e.dir/CMakeCCompilerABI.c.o   -c /home/sarthak/clion-2017.3.4/bin/cmake/share/cmake-3.9/Modules/CMakeCCompilerABI.c
-Linking C executable cmTC_87d8e
-/home/sarthak/clion-2017.3.4/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_87d8e.dir/link.txt --verbose=1
-/usr/bin/cc     -v -rdynamic CMakeFiles/cmTC_87d8e.dir/CMakeCCompilerABI.c.o  -o cmTC_87d8e 
+Run Build Command:"/usr/bin/make" "cmTC_1d734/fast"
+/usr/bin/make -f CMakeFiles/cmTC_1d734.dir/build.make CMakeFiles/cmTC_1d734.dir/build
+make[1]: Entering directory '/home/sarthak/Documents/Algorithms/Seam Carving/seam-carving/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_1d734.dir/CMakeCCompilerABI.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_1d734.dir/CMakeCCompilerABI.c.o   -c /home/sarthak/clion-2017.3.4/bin/cmake/share/cmake-3.9/Modules/CMakeCCompilerABI.c
+Linking C executable cmTC_1d734
+/home/sarthak/clion-2017.3.4/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_1d734.dir/link.txt --verbose=1
+/usr/bin/cc     -v -rdynamic CMakeFiles/cmTC_1d734.dir/CMakeCCompilerABI.c.o  -o cmTC_1d734 
 Using built-in specs.
 COLLECT_GCC=/usr/bin/cc
 COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-linux-gnu/5/lto-wrapper
@@ -59,23 +59,23 @@ Thread model: posix
 gcc version 5.4.0 20160609 (Ubuntu 5.4.0-6ubuntu1~16.04.9) 
 COMPILER_PATH=/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/
 LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/5/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/5/../../../:/lib/:/usr/lib/
-COLLECT_GCC_OPTIONS='-v' '-rdynamic' '-o' 'cmTC_87d8e' '-mtune=generic' '-march=x86-64'
- /usr/lib/gcc/x86_64-linux-gnu/5/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/5/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/5/lto-wrapper -plugin-opt=-fresolution=/tmp/ccy8dYK5.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -z relro -o cmTC_87d8e /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crt1.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/5/crtbegin.o -L/usr/lib/gcc/x86_64-linux-gnu/5 -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/5/../../.. CMakeFiles/cmTC_87d8e.dir/CMakeCCompilerABI.c.o -lgcc --as-needed -lgcc_s --no-as-needed -lc -lgcc --as-needed -lgcc_s --no-as-needed /usr/lib/gcc/x86_64-linux-gnu/5/crtend.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crtn.o
-make[1]: Leaving directory '/home/sarthak/Documents/Algorithms/Seam Carving/seamcarving/cmake-build-debug/CMakeFiles/CMakeTmp'
+COLLECT_GCC_OPTIONS='-v' '-rdynamic' '-o' 'cmTC_1d734' '-mtune=generic' '-march=x86-64'
+ /usr/lib/gcc/x86_64-linux-gnu/5/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/5/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/5/lto-wrapper -plugin-opt=-fresolution=/tmp/cciXOyj5.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -z relro -o cmTC_1d734 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crt1.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/5/crtbegin.o -L/usr/lib/gcc/x86_64-linux-gnu/5 -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/5/../../.. CMakeFiles/cmTC_1d734.dir/CMakeCCompilerABI.c.o -lgcc --as-needed -lgcc_s --no-as-needed -lc -lgcc --as-needed -lgcc_s --no-as-needed /usr/lib/gcc/x86_64-linux-gnu/5/crtend.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crtn.o
+make[1]: Leaving directory '/home/sarthak/Documents/Algorithms/Seam Carving/seam-carving/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
 Parsed C implicit link information from above output:
   link line regex: [^( *|.*[/\])(ld|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
-  ignore line: [Change Dir: /home/sarthak/Documents/Algorithms/Seam Carving/seamcarving/cmake-build-debug/CMakeFiles/CMakeTmp]
+  ignore line: [Change Dir: /home/sarthak/Documents/Algorithms/Seam Carving/seam-carving/cmake-build-debug/CMakeFiles/CMakeTmp]
   ignore line: []
-  ignore line: [Run Build Command:"/usr/bin/make" "cmTC_87d8e/fast"]
-  ignore line: [/usr/bin/make -f CMakeFiles/cmTC_87d8e.dir/build.make CMakeFiles/cmTC_87d8e.dir/build]
-  ignore line: [make[1]: Entering directory '/home/sarthak/Documents/Algorithms/Seam Carving/seamcarving/cmake-build-debug/CMakeFiles/CMakeTmp']
-  ignore line: [Building C object CMakeFiles/cmTC_87d8e.dir/CMakeCCompilerABI.c.o]
-  ignore line: [/usr/bin/cc    -o CMakeFiles/cmTC_87d8e.dir/CMakeCCompilerABI.c.o   -c /home/sarthak/clion-2017.3.4/bin/cmake/share/cmake-3.9/Modules/CMakeCCompilerABI.c]
-  ignore line: [Linking C executable cmTC_87d8e]
-  ignore line: [/home/sarthak/clion-2017.3.4/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_87d8e.dir/link.txt --verbose=1]
-  ignore line: [/usr/bin/cc     -v -rdynamic CMakeFiles/cmTC_87d8e.dir/CMakeCCompilerABI.c.o  -o cmTC_87d8e ]
+  ignore line: [Run Build Command:"/usr/bin/make" "cmTC_1d734/fast"]
+  ignore line: [/usr/bin/make -f CMakeFiles/cmTC_1d734.dir/build.make CMakeFiles/cmTC_1d734.dir/build]
+  ignore line: [make[1]: Entering directory '/home/sarthak/Documents/Algorithms/Seam Carving/seam-carving/cmake-build-debug/CMakeFiles/CMakeTmp']
+  ignore line: [Building C object CMakeFiles/cmTC_1d734.dir/CMakeCCompilerABI.c.o]
+  ignore line: [/usr/bin/cc    -o CMakeFiles/cmTC_1d734.dir/CMakeCCompilerABI.c.o   -c /home/sarthak/clion-2017.3.4/bin/cmake/share/cmake-3.9/Modules/CMakeCCompilerABI.c]
+  ignore line: [Linking C executable cmTC_1d734]
+  ignore line: [/home/sarthak/clion-2017.3.4/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_1d734.dir/link.txt --verbose=1]
+  ignore line: [/usr/bin/cc     -v -rdynamic CMakeFiles/cmTC_1d734.dir/CMakeCCompilerABI.c.o  -o cmTC_1d734 ]
   ignore line: [Using built-in specs.]
   ignore line: [COLLECT_GCC=/usr/bin/cc]
   ignore line: [COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-linux-gnu/5/lto-wrapper]
@@ -85,13 +85,13 @@ Parsed C implicit link information from above output:
   ignore line: [gcc version 5.4.0 20160609 (Ubuntu 5.4.0-6ubuntu1~16.04.9) ]
   ignore line: [COMPILER_PATH=/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/]
   ignore line: [LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/5/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/5/../../../:/lib/:/usr/lib/]
-  ignore line: [COLLECT_GCC_OPTIONS='-v' '-rdynamic' '-o' 'cmTC_87d8e' '-mtune=generic' '-march=x86-64']
-  link line: [ /usr/lib/gcc/x86_64-linux-gnu/5/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/5/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/5/lto-wrapper -plugin-opt=-fresolution=/tmp/ccy8dYK5.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -z relro -o cmTC_87d8e /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crt1.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/5/crtbegin.o -L/usr/lib/gcc/x86_64-linux-gnu/5 -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/5/../../.. CMakeFiles/cmTC_87d8e.dir/CMakeCCompilerABI.c.o -lgcc --as-needed -lgcc_s --no-as-needed -lc -lgcc --as-needed -lgcc_s --no-as-needed /usr/lib/gcc/x86_64-linux-gnu/5/crtend.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crtn.o]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-rdynamic' '-o' 'cmTC_1d734' '-mtune=generic' '-march=x86-64']
+  link line: [ /usr/lib/gcc/x86_64-linux-gnu/5/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/5/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/5/lto-wrapper -plugin-opt=-fresolution=/tmp/cciXOyj5.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -z relro -o cmTC_1d734 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crt1.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/5/crtbegin.o -L/usr/lib/gcc/x86_64-linux-gnu/5 -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/5/../../.. CMakeFiles/cmTC_1d734.dir/CMakeCCompilerABI.c.o -lgcc --as-needed -lgcc_s --no-as-needed -lc -lgcc --as-needed -lgcc_s --no-as-needed /usr/lib/gcc/x86_64-linux-gnu/5/crtend.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crtn.o]
     arg [/usr/lib/gcc/x86_64-linux-gnu/5/collect2] ==> ignore
     arg [-plugin] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/5/liblto_plugin.so] ==> ignore
     arg [-plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/5/lto-wrapper] ==> ignore
-    arg [-plugin-opt=-fresolution=/tmp/ccy8dYK5.res] ==> ignore
+    arg [-plugin-opt=-fresolution=/tmp/cciXOyj5.res] ==> ignore
     arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
     arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
     arg [-plugin-opt=-pass-through=-lc] ==> ignore
@@ -109,7 +109,7 @@ Parsed C implicit link information from above output:
     arg [/lib64/ld-linux-x86-64.so.2] ==> ignore
     arg [-zrelro] ==> ignore
     arg [-o] ==> ignore
-    arg [cmTC_87d8e] ==> ignore
+    arg [cmTC_1d734] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crt1.o] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/5/crtbegin.o] ==> ignore
@@ -121,7 +121,7 @@ Parsed C implicit link information from above output:
     arg [-L/usr/lib/x86_64-linux-gnu] ==> dir [/usr/lib/x86_64-linux-gnu]
     arg [-L/usr/lib/../lib] ==> dir [/usr/lib/../lib]
     arg [-L/usr/lib/gcc/x86_64-linux-gnu/5/../../..] ==> dir [/usr/lib/gcc/x86_64-linux-gnu/5/../../..]
-    arg [CMakeFiles/cmTC_87d8e.dir/CMakeCCompilerABI.c.o] ==> ignore
+    arg [CMakeFiles/cmTC_1d734.dir/CMakeCCompilerABI.c.o] ==> ignore
     arg [-lgcc] ==> lib [gcc]
     arg [--as-needed] ==> ignore
     arg [-lgcc_s] ==> lib [gcc_s]
@@ -149,17 +149,17 @@ Parsed C implicit link information from above output:
 
 
 Detecting C [-std=c11] compiler features compiled with the following output:
-Change Dir: /home/sarthak/Documents/Algorithms/Seam Carving/seamcarving/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/sarthak/Documents/Algorithms/Seam Carving/seam-carving/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_326a5/fast"
-/usr/bin/make -f CMakeFiles/cmTC_326a5.dir/build.make CMakeFiles/cmTC_326a5.dir/build
-make[1]: Entering directory '/home/sarthak/Documents/Algorithms/Seam Carving/seamcarving/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_326a5.dir/feature_tests.c.o
-/usr/bin/cc   -std=c11 -o CMakeFiles/cmTC_326a5.dir/feature_tests.c.o   -c "/home/sarthak/Documents/Algorithms/Seam Carving/seamcarving/cmake-build-debug/CMakeFiles/feature_tests.c"
-Linking C executable cmTC_326a5
-/home/sarthak/clion-2017.3.4/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_326a5.dir/link.txt --verbose=1
-/usr/bin/cc      -rdynamic CMakeFiles/cmTC_326a5.dir/feature_tests.c.o  -o cmTC_326a5 
-make[1]: Leaving directory '/home/sarthak/Documents/Algorithms/Seam Carving/seamcarving/cmake-build-debug/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_6f545/fast"
+/usr/bin/make -f CMakeFiles/cmTC_6f545.dir/build.make CMakeFiles/cmTC_6f545.dir/build
+make[1]: Entering directory '/home/sarthak/Documents/Algorithms/Seam Carving/seam-carving/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_6f545.dir/feature_tests.c.o
+/usr/bin/cc   -std=c11 -o CMakeFiles/cmTC_6f545.dir/feature_tests.c.o   -c "/home/sarthak/Documents/Algorithms/Seam Carving/seam-carving/cmake-build-debug/CMakeFiles/feature_tests.c"
+Linking C executable cmTC_6f545
+/home/sarthak/clion-2017.3.4/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_6f545.dir/link.txt --verbose=1
+/usr/bin/cc      -rdynamic CMakeFiles/cmTC_6f545.dir/feature_tests.c.o  -o cmTC_6f545 
+make[1]: Leaving directory '/home/sarthak/Documents/Algorithms/Seam Carving/seam-carving/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
     Feature record: C_FEATURE:1c_function_prototypes
@@ -169,17 +169,17 @@ make[1]: Leaving directory '/home/sarthak/Documents/Algorithms/Seam Carving/seam
 
 
 Detecting C [-std=c99] compiler features compiled with the following output:
-Change Dir: /home/sarthak/Documents/Algorithms/Seam Carving/seamcarving/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/sarthak/Documents/Algorithms/Seam Carving/seam-carving/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_21033/fast"
-/usr/bin/make -f CMakeFiles/cmTC_21033.dir/build.make CMakeFiles/cmTC_21033.dir/build
-make[1]: Entering directory '/home/sarthak/Documents/Algorithms/Seam Carving/seamcarving/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_21033.dir/feature_tests.c.o
-/usr/bin/cc   -std=c99 -o CMakeFiles/cmTC_21033.dir/feature_tests.c.o   -c "/home/sarthak/Documents/Algorithms/Seam Carving/seamcarving/cmake-build-debug/CMakeFiles/feature_tests.c"
-Linking C executable cmTC_21033
-/home/sarthak/clion-2017.3.4/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_21033.dir/link.txt --verbose=1
-/usr/bin/cc      -rdynamic CMakeFiles/cmTC_21033.dir/feature_tests.c.o  -o cmTC_21033 
-make[1]: Leaving directory '/home/sarthak/Documents/Algorithms/Seam Carving/seamcarving/cmake-build-debug/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_82e66/fast"
+/usr/bin/make -f CMakeFiles/cmTC_82e66.dir/build.make CMakeFiles/cmTC_82e66.dir/build
+make[1]: Entering directory '/home/sarthak/Documents/Algorithms/Seam Carving/seam-carving/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_82e66.dir/feature_tests.c.o
+/usr/bin/cc   -std=c99 -o CMakeFiles/cmTC_82e66.dir/feature_tests.c.o   -c "/home/sarthak/Documents/Algorithms/Seam Carving/seam-carving/cmake-build-debug/CMakeFiles/feature_tests.c"
+Linking C executable cmTC_82e66
+/home/sarthak/clion-2017.3.4/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_82e66.dir/link.txt --verbose=1
+/usr/bin/cc      -rdynamic CMakeFiles/cmTC_82e66.dir/feature_tests.c.o  -o cmTC_82e66 
+make[1]: Leaving directory '/home/sarthak/Documents/Algorithms/Seam Carving/seam-carving/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
     Feature record: C_FEATURE:1c_function_prototypes
@@ -189,17 +189,17 @@ make[1]: Leaving directory '/home/sarthak/Documents/Algorithms/Seam Carving/seam
 
 
 Detecting C [-std=c90] compiler features compiled with the following output:
-Change Dir: /home/sarthak/Documents/Algorithms/Seam Carving/seamcarving/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/sarthak/Documents/Algorithms/Seam Carving/seam-carving/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_aa1d7/fast"
-/usr/bin/make -f CMakeFiles/cmTC_aa1d7.dir/build.make CMakeFiles/cmTC_aa1d7.dir/build
-make[1]: Entering directory '/home/sarthak/Documents/Algorithms/Seam Carving/seamcarving/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_aa1d7.dir/feature_tests.c.o
-/usr/bin/cc   -std=c90 -o CMakeFiles/cmTC_aa1d7.dir/feature_tests.c.o   -c "/home/sarthak/Documents/Algorithms/Seam Carving/seamcarving/cmake-build-debug/CMakeFiles/feature_tests.c"
-Linking C executable cmTC_aa1d7
-/home/sarthak/clion-2017.3.4/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_aa1d7.dir/link.txt --verbose=1
-/usr/bin/cc      -rdynamic CMakeFiles/cmTC_aa1d7.dir/feature_tests.c.o  -o cmTC_aa1d7 
-make[1]: Leaving directory '/home/sarthak/Documents/Algorithms/Seam Carving/seamcarving/cmake-build-debug/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_5eb1c/fast"
+/usr/bin/make -f CMakeFiles/cmTC_5eb1c.dir/build.make CMakeFiles/cmTC_5eb1c.dir/build
+make[1]: Entering directory '/home/sarthak/Documents/Algorithms/Seam Carving/seam-carving/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_5eb1c.dir/feature_tests.c.o
+/usr/bin/cc   -std=c90 -o CMakeFiles/cmTC_5eb1c.dir/feature_tests.c.o   -c "/home/sarthak/Documents/Algorithms/Seam Carving/seam-carving/cmake-build-debug/CMakeFiles/feature_tests.c"
+Linking C executable cmTC_5eb1c
+/home/sarthak/clion-2017.3.4/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_5eb1c.dir/link.txt --verbose=1
+/usr/bin/cc      -rdynamic CMakeFiles/cmTC_5eb1c.dir/feature_tests.c.o  -o cmTC_5eb1c 
+make[1]: Leaving directory '/home/sarthak/Documents/Algorithms/Seam Carving/seam-carving/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
     Feature record: C_FEATURE:1c_function_prototypes
@@ -207,30 +207,30 @@ make[1]: Leaving directory '/home/sarthak/Documents/Algorithms/Seam Carving/seam
     Feature record: C_FEATURE:0c_static_assert
     Feature record: C_FEATURE:0c_variadic_macros
 Determining if the CXX compiler works passed with the following output:
-Change Dir: /home/sarthak/Documents/Algorithms/Seam Carving/seamcarving/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/sarthak/Documents/Algorithms/Seam Carving/seam-carving/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_8f426/fast"
-/usr/bin/make -f CMakeFiles/cmTC_8f426.dir/build.make CMakeFiles/cmTC_8f426.dir/build
-make[1]: Entering directory '/home/sarthak/Documents/Algorithms/Seam Carving/seamcarving/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_8f426.dir/testCXXCompiler.cxx.o
-/usr/bin/c++     -o CMakeFiles/cmTC_8f426.dir/testCXXCompiler.cxx.o -c "/home/sarthak/Documents/Algorithms/Seam Carving/seamcarving/cmake-build-debug/CMakeFiles/CMakeTmp/testCXXCompiler.cxx"
-Linking CXX executable cmTC_8f426
-/home/sarthak/clion-2017.3.4/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_8f426.dir/link.txt --verbose=1
-/usr/bin/c++       -rdynamic CMakeFiles/cmTC_8f426.dir/testCXXCompiler.cxx.o  -o cmTC_8f426 
-make[1]: Leaving directory '/home/sarthak/Documents/Algorithms/Seam Carving/seamcarving/cmake-build-debug/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_d7618/fast"
+/usr/bin/make -f CMakeFiles/cmTC_d7618.dir/build.make CMakeFiles/cmTC_d7618.dir/build
+make[1]: Entering directory '/home/sarthak/Documents/Algorithms/Seam Carving/seam-carving/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_d7618.dir/testCXXCompiler.cxx.o
+/usr/bin/c++     -o CMakeFiles/cmTC_d7618.dir/testCXXCompiler.cxx.o -c "/home/sarthak/Documents/Algorithms/Seam Carving/seam-carving/cmake-build-debug/CMakeFiles/CMakeTmp/testCXXCompiler.cxx"
+Linking CXX executable cmTC_d7618
+/home/sarthak/clion-2017.3.4/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_d7618.dir/link.txt --verbose=1
+/usr/bin/c++       -rdynamic CMakeFiles/cmTC_d7618.dir/testCXXCompiler.cxx.o  -o cmTC_d7618 
+make[1]: Leaving directory '/home/sarthak/Documents/Algorithms/Seam Carving/seam-carving/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
 Detecting CXX compiler ABI info compiled with the following output:
-Change Dir: /home/sarthak/Documents/Algorithms/Seam Carving/seamcarving/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/sarthak/Documents/Algorithms/Seam Carving/seam-carving/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_56b2b/fast"
-/usr/bin/make -f CMakeFiles/cmTC_56b2b.dir/build.make CMakeFiles/cmTC_56b2b.dir/build
-make[1]: Entering directory '/home/sarthak/Documents/Algorithms/Seam Carving/seamcarving/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_56b2b.dir/CMakeCXXCompilerABI.cpp.o
-/usr/bin/c++     -o CMakeFiles/cmTC_56b2b.dir/CMakeCXXCompilerABI.cpp.o -c /home/sarthak/clion-2017.3.4/bin/cmake/share/cmake-3.9/Modules/CMakeCXXCompilerABI.cpp
-Linking CXX executable cmTC_56b2b
-/home/sarthak/clion-2017.3.4/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_56b2b.dir/link.txt --verbose=1
-/usr/bin/c++      -v -rdynamic CMakeFiles/cmTC_56b2b.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_56b2b 
+Run Build Command:"/usr/bin/make" "cmTC_87833/fast"
+/usr/bin/make -f CMakeFiles/cmTC_87833.dir/build.make CMakeFiles/cmTC_87833.dir/build
+make[1]: Entering directory '/home/sarthak/Documents/Algorithms/Seam Carving/seam-carving/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_87833.dir/CMakeCXXCompilerABI.cpp.o
+/usr/bin/c++     -o CMakeFiles/cmTC_87833.dir/CMakeCXXCompilerABI.cpp.o -c /home/sarthak/clion-2017.3.4/bin/cmake/share/cmake-3.9/Modules/CMakeCXXCompilerABI.cpp
+Linking CXX executable cmTC_87833
+/home/sarthak/clion-2017.3.4/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_87833.dir/link.txt --verbose=1
+/usr/bin/c++      -v -rdynamic CMakeFiles/cmTC_87833.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_87833 
 Using built-in specs.
 COLLECT_GCC=/usr/bin/c++
 COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-linux-gnu/5/lto-wrapper
@@ -240,23 +240,23 @@ Thread model: posix
 gcc version 5.4.0 20160609 (Ubuntu 5.4.0-6ubuntu1~16.04.9) 
 COMPILER_PATH=/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/
 LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/5/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/5/../../../:/lib/:/usr/lib/
-COLLECT_GCC_OPTIONS='-v' '-rdynamic' '-o' 'cmTC_56b2b' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
- /usr/lib/gcc/x86_64-linux-gnu/5/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/5/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/5/lto-wrapper -plugin-opt=-fresolution=/tmp/ccilszVF.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -z relro -o cmTC_56b2b /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crt1.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/5/crtbegin.o -L/usr/lib/gcc/x86_64-linux-gnu/5 -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/5/../../.. CMakeFiles/cmTC_56b2b.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-linux-gnu/5/crtend.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crtn.o
-make[1]: Leaving directory '/home/sarthak/Documents/Algorithms/Seam Carving/seamcarving/cmake-build-debug/CMakeFiles/CMakeTmp'
+COLLECT_GCC_OPTIONS='-v' '-rdynamic' '-o' 'cmTC_87833' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
+ /usr/lib/gcc/x86_64-linux-gnu/5/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/5/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/5/lto-wrapper -plugin-opt=-fresolution=/tmp/ccPEOv1o.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -z relro -o cmTC_87833 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crt1.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/5/crtbegin.o -L/usr/lib/gcc/x86_64-linux-gnu/5 -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/5/../../.. CMakeFiles/cmTC_87833.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-linux-gnu/5/crtend.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crtn.o
+make[1]: Leaving directory '/home/sarthak/Documents/Algorithms/Seam Carving/seam-carving/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
 Parsed CXX implicit link information from above output:
   link line regex: [^( *|.*[/\])(ld|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
-  ignore line: [Change Dir: /home/sarthak/Documents/Algorithms/Seam Carving/seamcarving/cmake-build-debug/CMakeFiles/CMakeTmp]
+  ignore line: [Change Dir: /home/sarthak/Documents/Algorithms/Seam Carving/seam-carving/cmake-build-debug/CMakeFiles/CMakeTmp]
   ignore line: []
-  ignore line: [Run Build Command:"/usr/bin/make" "cmTC_56b2b/fast"]
-  ignore line: [/usr/bin/make -f CMakeFiles/cmTC_56b2b.dir/build.make CMakeFiles/cmTC_56b2b.dir/build]
-  ignore line: [make[1]: Entering directory '/home/sarthak/Documents/Algorithms/Seam Carving/seamcarving/cmake-build-debug/CMakeFiles/CMakeTmp']
-  ignore line: [Building CXX object CMakeFiles/cmTC_56b2b.dir/CMakeCXXCompilerABI.cpp.o]
-  ignore line: [/usr/bin/c++     -o CMakeFiles/cmTC_56b2b.dir/CMakeCXXCompilerABI.cpp.o -c /home/sarthak/clion-2017.3.4/bin/cmake/share/cmake-3.9/Modules/CMakeCXXCompilerABI.cpp]
-  ignore line: [Linking CXX executable cmTC_56b2b]
-  ignore line: [/home/sarthak/clion-2017.3.4/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_56b2b.dir/link.txt --verbose=1]
-  ignore line: [/usr/bin/c++      -v -rdynamic CMakeFiles/cmTC_56b2b.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_56b2b ]
+  ignore line: [Run Build Command:"/usr/bin/make" "cmTC_87833/fast"]
+  ignore line: [/usr/bin/make -f CMakeFiles/cmTC_87833.dir/build.make CMakeFiles/cmTC_87833.dir/build]
+  ignore line: [make[1]: Entering directory '/home/sarthak/Documents/Algorithms/Seam Carving/seam-carving/cmake-build-debug/CMakeFiles/CMakeTmp']
+  ignore line: [Building CXX object CMakeFiles/cmTC_87833.dir/CMakeCXXCompilerABI.cpp.o]
+  ignore line: [/usr/bin/c++     -o CMakeFiles/cmTC_87833.dir/CMakeCXXCompilerABI.cpp.o -c /home/sarthak/clion-2017.3.4/bin/cmake/share/cmake-3.9/Modules/CMakeCXXCompilerABI.cpp]
+  ignore line: [Linking CXX executable cmTC_87833]
+  ignore line: [/home/sarthak/clion-2017.3.4/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_87833.dir/link.txt --verbose=1]
+  ignore line: [/usr/bin/c++      -v -rdynamic CMakeFiles/cmTC_87833.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_87833 ]
   ignore line: [Using built-in specs.]
   ignore line: [COLLECT_GCC=/usr/bin/c++]
   ignore line: [COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-linux-gnu/5/lto-wrapper]
@@ -266,13 +266,13 @@ Parsed CXX implicit link information from above output:
   ignore line: [gcc version 5.4.0 20160609 (Ubuntu 5.4.0-6ubuntu1~16.04.9) ]
   ignore line: [COMPILER_PATH=/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/]
   ignore line: [LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/5/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/5/../../../:/lib/:/usr/lib/]
-  ignore line: [COLLECT_GCC_OPTIONS='-v' '-rdynamic' '-o' 'cmTC_56b2b' '-shared-libgcc' '-mtune=generic' '-march=x86-64']
-  link line: [ /usr/lib/gcc/x86_64-linux-gnu/5/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/5/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/5/lto-wrapper -plugin-opt=-fresolution=/tmp/ccilszVF.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -z relro -o cmTC_56b2b /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crt1.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/5/crtbegin.o -L/usr/lib/gcc/x86_64-linux-gnu/5 -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/5/../../.. CMakeFiles/cmTC_56b2b.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-linux-gnu/5/crtend.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crtn.o]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-rdynamic' '-o' 'cmTC_87833' '-shared-libgcc' '-mtune=generic' '-march=x86-64']
+  link line: [ /usr/lib/gcc/x86_64-linux-gnu/5/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/5/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/5/lto-wrapper -plugin-opt=-fresolution=/tmp/ccPEOv1o.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -z relro -o cmTC_87833 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crt1.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/5/crtbegin.o -L/usr/lib/gcc/x86_64-linux-gnu/5 -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/5/../../.. CMakeFiles/cmTC_87833.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-linux-gnu/5/crtend.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crtn.o]
     arg [/usr/lib/gcc/x86_64-linux-gnu/5/collect2] ==> ignore
     arg [-plugin] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/5/liblto_plugin.so] ==> ignore
     arg [-plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/5/lto-wrapper] ==> ignore
-    arg [-plugin-opt=-fresolution=/tmp/ccilszVF.res] ==> ignore
+    arg [-plugin-opt=-fresolution=/tmp/ccPEOv1o.res] ==> ignore
     arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
     arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
     arg [-plugin-opt=-pass-through=-lc] ==> ignore
@@ -290,7 +290,7 @@ Parsed CXX implicit link information from above output:
     arg [/lib64/ld-linux-x86-64.so.2] ==> ignore
     arg [-zrelro] ==> ignore
     arg [-o] ==> ignore
-    arg [cmTC_56b2b] ==> ignore
+    arg [cmTC_87833] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crt1.o] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/5/crtbegin.o] ==> ignore
@@ -302,7 +302,7 @@ Parsed CXX implicit link information from above output:
     arg [-L/usr/lib/x86_64-linux-gnu] ==> dir [/usr/lib/x86_64-linux-gnu]
     arg [-L/usr/lib/../lib] ==> dir [/usr/lib/../lib]
     arg [-L/usr/lib/gcc/x86_64-linux-gnu/5/../../..] ==> dir [/usr/lib/gcc/x86_64-linux-gnu/5/../../..]
-    arg [CMakeFiles/cmTC_56b2b.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
+    arg [CMakeFiles/cmTC_87833.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
     arg [-lstdc++] ==> lib [stdc++]
     arg [-lm] ==> lib [m]
     arg [-lgcc_s] ==> lib [gcc_s]
@@ -328,17 +328,17 @@ Parsed CXX implicit link information from above output:
 
 
 Detecting CXX [-std=c++1z] compiler features compiled with the following output:
-Change Dir: /home/sarthak/Documents/Algorithms/Seam Carving/seamcarving/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/sarthak/Documents/Algorithms/Seam Carving/seam-carving/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_44e30/fast"
-/usr/bin/make -f CMakeFiles/cmTC_44e30.dir/build.make CMakeFiles/cmTC_44e30.dir/build
-make[1]: Entering directory '/home/sarthak/Documents/Algorithms/Seam Carving/seamcarving/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_44e30.dir/feature_tests.cxx.o
-/usr/bin/c++    -std=c++1z -o CMakeFiles/cmTC_44e30.dir/feature_tests.cxx.o -c "/home/sarthak/Documents/Algorithms/Seam Carving/seamcarving/cmake-build-debug/CMakeFiles/feature_tests.cxx"
-Linking CXX executable cmTC_44e30
-/home/sarthak/clion-2017.3.4/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_44e30.dir/link.txt --verbose=1
-/usr/bin/c++       -rdynamic CMakeFiles/cmTC_44e30.dir/feature_tests.cxx.o  -o cmTC_44e30 
-make[1]: Leaving directory '/home/sarthak/Documents/Algorithms/Seam Carving/seamcarving/cmake-build-debug/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_88f3e/fast"
+/usr/bin/make -f CMakeFiles/cmTC_88f3e.dir/build.make CMakeFiles/cmTC_88f3e.dir/build
+make[1]: Entering directory '/home/sarthak/Documents/Algorithms/Seam Carving/seam-carving/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_88f3e.dir/feature_tests.cxx.o
+/usr/bin/c++    -std=c++1z -o CMakeFiles/cmTC_88f3e.dir/feature_tests.cxx.o -c "/home/sarthak/Documents/Algorithms/Seam Carving/seam-carving/cmake-build-debug/CMakeFiles/feature_tests.cxx"
+Linking CXX executable cmTC_88f3e
+/home/sarthak/clion-2017.3.4/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_88f3e.dir/link.txt --verbose=1
+/usr/bin/c++       -rdynamic CMakeFiles/cmTC_88f3e.dir/feature_tests.cxx.o  -o cmTC_88f3e 
+make[1]: Leaving directory '/home/sarthak/Documents/Algorithms/Seam Carving/seam-carving/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
     Feature record: CXX_FEATURE:1cxx_aggregate_default_initializers
@@ -401,17 +401,17 @@ make[1]: Leaving directory '/home/sarthak/Documents/Algorithms/Seam Carving/seam
 
 
 Detecting CXX [-std=c++14] compiler features compiled with the following output:
-Change Dir: /home/sarthak/Documents/Algorithms/Seam Carving/seamcarving/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/sarthak/Documents/Algorithms/Seam Carving/seam-carving/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_cb9ea/fast"
-/usr/bin/make -f CMakeFiles/cmTC_cb9ea.dir/build.make CMakeFiles/cmTC_cb9ea.dir/build
-make[1]: Entering directory '/home/sarthak/Documents/Algorithms/Seam Carving/seamcarving/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_cb9ea.dir/feature_tests.cxx.o
-/usr/bin/c++    -std=c++14 -o CMakeFiles/cmTC_cb9ea.dir/feature_tests.cxx.o -c "/home/sarthak/Documents/Algorithms/Seam Carving/seamcarving/cmake-build-debug/CMakeFiles/feature_tests.cxx"
-Linking CXX executable cmTC_cb9ea
-/home/sarthak/clion-2017.3.4/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_cb9ea.dir/link.txt --verbose=1
-/usr/bin/c++       -rdynamic CMakeFiles/cmTC_cb9ea.dir/feature_tests.cxx.o  -o cmTC_cb9ea 
-make[1]: Leaving directory '/home/sarthak/Documents/Algorithms/Seam Carving/seamcarving/cmake-build-debug/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_28ab6/fast"
+/usr/bin/make -f CMakeFiles/cmTC_28ab6.dir/build.make CMakeFiles/cmTC_28ab6.dir/build
+make[1]: Entering directory '/home/sarthak/Documents/Algorithms/Seam Carving/seam-carving/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_28ab6.dir/feature_tests.cxx.o
+/usr/bin/c++    -std=c++14 -o CMakeFiles/cmTC_28ab6.dir/feature_tests.cxx.o -c "/home/sarthak/Documents/Algorithms/Seam Carving/seam-carving/cmake-build-debug/CMakeFiles/feature_tests.cxx"
+Linking CXX executable cmTC_28ab6
+/home/sarthak/clion-2017.3.4/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_28ab6.dir/link.txt --verbose=1
+/usr/bin/c++       -rdynamic CMakeFiles/cmTC_28ab6.dir/feature_tests.cxx.o  -o cmTC_28ab6 
+make[1]: Leaving directory '/home/sarthak/Documents/Algorithms/Seam Carving/seam-carving/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
     Feature record: CXX_FEATURE:1cxx_aggregate_default_initializers
@@ -474,17 +474,17 @@ make[1]: Leaving directory '/home/sarthak/Documents/Algorithms/Seam Carving/seam
 
 
 Detecting CXX [-std=c++11] compiler features compiled with the following output:
-Change Dir: /home/sarthak/Documents/Algorithms/Seam Carving/seamcarving/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/sarthak/Documents/Algorithms/Seam Carving/seam-carving/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_a81cd/fast"
-/usr/bin/make -f CMakeFiles/cmTC_a81cd.dir/build.make CMakeFiles/cmTC_a81cd.dir/build
-make[1]: Entering directory '/home/sarthak/Documents/Algorithms/Seam Carving/seamcarving/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_a81cd.dir/feature_tests.cxx.o
-/usr/bin/c++    -std=c++11 -o CMakeFiles/cmTC_a81cd.dir/feature_tests.cxx.o -c "/home/sarthak/Documents/Algorithms/Seam Carving/seamcarving/cmake-build-debug/CMakeFiles/feature_tests.cxx"
-Linking CXX executable cmTC_a81cd
-/home/sarthak/clion-2017.3.4/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_a81cd.dir/link.txt --verbose=1
-/usr/bin/c++       -rdynamic CMakeFiles/cmTC_a81cd.dir/feature_tests.cxx.o  -o cmTC_a81cd 
-make[1]: Leaving directory '/home/sarthak/Documents/Algorithms/Seam Carving/seamcarving/cmake-build-debug/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_19ceb/fast"
+/usr/bin/make -f CMakeFiles/cmTC_19ceb.dir/build.make CMakeFiles/cmTC_19ceb.dir/build
+make[1]: Entering directory '/home/sarthak/Documents/Algorithms/Seam Carving/seam-carving/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_19ceb.dir/feature_tests.cxx.o
+/usr/bin/c++    -std=c++11 -o CMakeFiles/cmTC_19ceb.dir/feature_tests.cxx.o -c "/home/sarthak/Documents/Algorithms/Seam Carving/seam-carving/cmake-build-debug/CMakeFiles/feature_tests.cxx"
+Linking CXX executable cmTC_19ceb
+/home/sarthak/clion-2017.3.4/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_19ceb.dir/link.txt --verbose=1
+/usr/bin/c++       -rdynamic CMakeFiles/cmTC_19ceb.dir/feature_tests.cxx.o  -o cmTC_19ceb 
+make[1]: Leaving directory '/home/sarthak/Documents/Algorithms/Seam Carving/seam-carving/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
     Feature record: CXX_FEATURE:0cxx_aggregate_default_initializers
@@ -547,17 +547,17 @@ make[1]: Leaving directory '/home/sarthak/Documents/Algorithms/Seam Carving/seam
 
 
 Detecting CXX [-std=c++98] compiler features compiled with the following output:
-Change Dir: /home/sarthak/Documents/Algorithms/Seam Carving/seamcarving/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/sarthak/Documents/Algorithms/Seam Carving/seam-carving/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_f53f9/fast"
-/usr/bin/make -f CMakeFiles/cmTC_f53f9.dir/build.make CMakeFiles/cmTC_f53f9.dir/build
-make[1]: Entering directory '/home/sarthak/Documents/Algorithms/Seam Carving/seamcarving/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_f53f9.dir/feature_tests.cxx.o
-/usr/bin/c++    -std=c++98 -o CMakeFiles/cmTC_f53f9.dir/feature_tests.cxx.o -c "/home/sarthak/Documents/Algorithms/Seam Carving/seamcarving/cmake-build-debug/CMakeFiles/feature_tests.cxx"
-Linking CXX executable cmTC_f53f9
-/home/sarthak/clion-2017.3.4/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_f53f9.dir/link.txt --verbose=1
-/usr/bin/c++       -rdynamic CMakeFiles/cmTC_f53f9.dir/feature_tests.cxx.o  -o cmTC_f53f9 
-make[1]: Leaving directory '/home/sarthak/Documents/Algorithms/Seam Carving/seamcarving/cmake-build-debug/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_df597/fast"
+/usr/bin/make -f CMakeFiles/cmTC_df597.dir/build.make CMakeFiles/cmTC_df597.dir/build
+make[1]: Entering directory '/home/sarthak/Documents/Algorithms/Seam Carving/seam-carving/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_df597.dir/feature_tests.cxx.o
+/usr/bin/c++    -std=c++98 -o CMakeFiles/cmTC_df597.dir/feature_tests.cxx.o -c "/home/sarthak/Documents/Algorithms/Seam Carving/seam-carving/cmake-build-debug/CMakeFiles/feature_tests.cxx"
+Linking CXX executable cmTC_df597
+/home/sarthak/clion-2017.3.4/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_df597.dir/link.txt --verbose=1
+/usr/bin/c++       -rdynamic CMakeFiles/cmTC_df597.dir/feature_tests.cxx.o  -o cmTC_df597 
+make[1]: Leaving directory '/home/sarthak/Documents/Algorithms/Seam Carving/seam-carving/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
     Feature record: CXX_FEATURE:0cxx_aggregate_default_initializers

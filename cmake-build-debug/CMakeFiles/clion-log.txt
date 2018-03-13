@@ -1,4 +1,4 @@
-/home/sarthak/clion-2017.3.4/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/home/sarthak/Documents/Algorithms/Seam Carving/seamcarving"
+/home/sarthak/clion-2017.3.4/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/home/sarthak/Documents/Algorithms/Seam Carving/seam-carving"
 -- The C compiler identification is GNU 5.4.0
 -- The CXX compiler identification is GNU 5.4.0
 -- Check for working C compiler: /usr/bin/cc
@@ -32,4 +32,4 @@ CMake Warning at CMakeLists.txt:6 (find_package):
 
 -- Configuring done
 -- Generating done
--- Build files have been written to: /home/sarthak/Documents/Algorithms/Seam Carving/seamcarving/cmake-build-debug
+-- Build files have been written to: /home/sarthak/Documents/Algorithms/Seam Carving/seam-carving/cmake-build-debug

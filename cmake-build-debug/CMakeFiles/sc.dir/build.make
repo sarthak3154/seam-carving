@@ -43,10 +43,10 @@ RM = /home/sarthak/clion-2017.3.4/bin/cmake/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "/home/sarthak/Documents/Algorithms/Seam Carving/seamcarving"
+CMAKE_SOURCE_DIR = "/home/sarthak/Documents/Algorithms/Seam Carving/seam-carving"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "/home/sarthak/Documents/Algorithms/Seam Carving/seamcarving/cmake-build-debug"
+CMAKE_BINARY_DIR = "/home/sarthak/Documents/Algorithms/Seam Carving/seam-carving/cmake-build-debug"
 
 # Include any dependencies generated for this target.
 include CMakeFiles/sc.dir/depend.make
@@ -59,16 +59,16 @@ include CMakeFiles/sc.dir/flags.make
 
 CMakeFiles/sc.dir/src/main.cpp.o: CMakeFiles/sc.dir/flags.make
 CMakeFiles/sc.dir/src/main.cpp.o: ../src/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/sarthak/Documents/Algorithms/Seam Carving/seamcarving/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/sc.dir/src/main.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/sc.dir/src/main.cpp.o -c "/home/sarthak/Documents/Algorithms/Seam Carving/seamcarving/src/main.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/sarthak/Documents/Algorithms/Seam Carving/seam-carving/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/sc.dir/src/main.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/sc.dir/src/main.cpp.o -c "/home/sarthak/Documents/Algorithms/Seam Carving/seam-carving/src/main.cpp"
 
 CMakeFiles/sc.dir/src/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/sc.dir/src/main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/sarthak/Documents/Algorithms/Seam Carving/seamcarving/src/main.cpp" > CMakeFiles/sc.dir/src/main.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/sarthak/Documents/Algorithms/Seam Carving/seam-carving/src/main.cpp" > CMakeFiles/sc.dir/src/main.cpp.i
 
 CMakeFiles/sc.dir/src/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/sc.dir/src/main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/sarthak/Documents/Algorithms/Seam Carving/seamcarving/src/main.cpp" -o CMakeFiles/sc.dir/src/main.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/sarthak/Documents/Algorithms/Seam Carving/seam-carving/src/main.cpp" -o CMakeFiles/sc.dir/src/main.cpp.s
 
 CMakeFiles/sc.dir/src/main.cpp.o.requires:
 
@@ -83,16 +83,16 @@ CMakeFiles/sc.dir/src/main.cpp.o.provides.build: CMakeFiles/sc.dir/src/main.cpp.
 
 CMakeFiles/sc.dir/src/sc.cpp.o: CMakeFiles/sc.dir/flags.make
 CMakeFiles/sc.dir/src/sc.cpp.o: ../src/sc.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/sarthak/Documents/Algorithms/Seam Carving/seamcarving/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/sc.dir/src/sc.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/sc.dir/src/sc.cpp.o -c "/home/sarthak/Documents/Algorithms/Seam Carving/seamcarving/src/sc.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/sarthak/Documents/Algorithms/Seam Carving/seam-carving/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/sc.dir/src/sc.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/sc.dir/src/sc.cpp.o -c "/home/sarthak/Documents/Algorithms/Seam Carving/seam-carving/src/sc.cpp"
 
 CMakeFiles/sc.dir/src/sc.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/sc.dir/src/sc.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/sarthak/Documents/Algorithms/Seam Carving/seamcarving/src/sc.cpp" > CMakeFiles/sc.dir/src/sc.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/sarthak/Documents/Algorithms/Seam Carving/seam-carving/src/sc.cpp" > CMakeFiles/sc.dir/src/sc.cpp.i
 
 CMakeFiles/sc.dir/src/sc.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/sc.dir/src/sc.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/sarthak/Documents/Algorithms/Seam Carving/seamcarving/src/sc.cpp" -o CMakeFiles/sc.dir/src/sc.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/sarthak/Documents/Algorithms/Seam Carving/seam-carving/src/sc.cpp" -o CMakeFiles/sc.dir/src/sc.cpp.s
 
 CMakeFiles/sc.dir/src/sc.cpp.o.requires:
 
@@ -117,7 +117,7 @@ sc: CMakeFiles/sc.dir/src/main.cpp.o
 sc: CMakeFiles/sc.dir/src/sc.cpp.o
 sc: CMakeFiles/sc.dir/build.make
 sc: CMakeFiles/sc.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/home/sarthak/Documents/Algorithms/Seam Carving/seamcarving/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable sc"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/home/sarthak/Documents/Algorithms/Seam Carving/seam-carving/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable sc"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/sc.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -135,6 +135,6 @@ CMakeFiles/sc.dir/clean:
 .PHONY : CMakeFiles/sc.dir/clean
 
 CMakeFiles/sc.dir/depend:
-	cd "/home/sarthak/Documents/Algorithms/Seam Carving/seamcarving/cmake-build-debug" && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "/home/sarthak/Documents/Algorithms/Seam Carving/seamcarving" "/home/sarthak/Documents/Algorithms/Seam Carving/seamcarving" "/home/sarthak/Documents/Algorithms/Seam Carving/seamcarving/cmake-build-debug" "/home/sarthak/Documents/Algorithms/Seam Carving/seamcarving/cmake-build-debug" "/home/sarthak/Documents/Algorithms/Seam Carving/seamcarving/cmake-build-debug/CMakeFiles/sc.dir/DependInfo.cmake" --color=$(COLOR)
+	cd "/home/sarthak/Documents/Algorithms/Seam Carving/seam-carving/cmake-build-debug" && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "/home/sarthak/Documents/Algorithms/Seam Carving/seam-carving" "/home/sarthak/Documents/Algorithms/Seam Carving/seam-carving" "/home/sarthak/Documents/Algorithms/Seam Carving/seam-carving/cmake-build-debug" "/home/sarthak/Documents/Algorithms/Seam Carving/seam-carving/cmake-build-debug" "/home/sarthak/Documents/Algorithms/Seam Carving/seam-carving/cmake-build-debug/CMakeFiles/sc.dir/DependInfo.cmake" --color=$(COLOR)
 .PHONY : CMakeFiles/sc.dir/depend
 
