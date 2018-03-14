@@ -81,8 +81,8 @@ vector<vector<int> > assign_energy_to_pixels(Mat &in_image, Mat &out_image) {
     return energy;
 }
 
-vector<int> find_seam(Mat &in_image, Mat &out_image, vector<vector<int> > energy) {
-    int rows = in_image.rows;
+vector<int> find_seam(Mat &in_image, vector<vector<int> > energy) {
+    int rows =  in_image.rows;
     int cols = in_image.cols;
 
     vector<vector<int> > T(rows);
@@ -148,14 +148,56 @@ vector<int> find_seam(Mat &in_image, Mat &out_image, vector<vector<int> > energy
     return path;
 }
 
+void remove_seam(Mat &out_image, vector<int> path) {
+    int rows = out_image.rows, cols = out_image.cols;
+    Mat new_image = Mat(rows, cols - 1, CV_8UC3);
+
+    for (int i = 0; i < rows; i++) {
+        for (int j = 0; j < cols-1; j++) {
+            if(j >= path[i])
+                new_image.at<Vec3b>(i, j) = out_image.at<Vec3b>(i, j+1);
+            else
+                new_image.at<Vec3b>(i, j) = out_image.at<Vec3b>(i, j);
+        }
+    }
+
+    new_image.copyTo(out_image);
+}
+
+void rotate_image(Mat& in_image, Mat& out_image) {
+    rotate(in_image, out_image, ROTATE_90_CLOCKWISE);
+    out_image.copyTo(in_image);
+}
+
+void rotate_image_anticlockwise(Mat& in_image, Mat& out_image) {
+    rotate(in_image, out_image, ROTATE_90_COUNTERCLOCKWISE);
+    out_image.copyTo(in_image);
+}
+
 
 bool execute_seam_carving(Mat &in_image, int new_width, int new_height, Mat &out_image) {
 
     Mat iimage = in_image.clone();
     Mat oimage = in_image.clone();
 
-    vector<vector<int> > energy = assign_energy_to_pixels(in_image, out_image);
-    vector<int> path = find_seam(in_image, out_image, energy);
+    while (iimage.cols > new_width) {
+        vector<vector<int> > energy = assign_energy_to_pixels(iimage, oimage);
+        vector<int> path = find_seam(iimage, energy);
+        remove_seam(iimage, path);
+        cout<<"("<<iimage.cols<<","<<iimage.rows<<")"<<endl;
+    }
+
+    rotate_image(iimage, oimage);
+
+    while (iimage.cols > new_height) {
+        vector<vector<int> > energy = assign_energy_to_pixels(iimage, oimage);
+        vector<int> path = find_seam(iimage, energy);
+        remove_seam(iimage, path);
+        cout<<"("<<iimage.rows<<","<<iimage.cols<<")"<<endl;
+    }
+
+    rotate_image_anticlockwise(iimage, oimage);
+    out_image = oimage.clone();
 
     return true;
 }
